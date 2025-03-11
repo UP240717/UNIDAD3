@@ -73,3 +73,21 @@ mid_three = it_companies[1:6]
 newlist = [company for company in it_companies if company not in mid_three]
 print(newlist)
 
+#21
+it_companies_1 = it_companies[1:7]
+print(it_companies_1)
+
+#22
+mid = it_companies[3]
+it_companies_2 = [company for company in it_companies if company not in mid]
+print(it_companies_2)
+
+#23
+it_companies_3 = it_companies[0:6]
+print(it_companies_3)
+
+#24
+it_companies.clear()
+print(it_companies)
+
+#25
