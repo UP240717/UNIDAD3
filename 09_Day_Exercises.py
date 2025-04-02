@@ -54,7 +54,7 @@ elif month in ["March", "April", "May"]:
     print("Spring")
 else:
     print("Summer")
-    print("Summer")
+    
 
 # 3
 fruits = ['banana', 'orange', 'mango', 'lemon']
